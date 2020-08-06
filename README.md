@@ -1,1 +1,1 @@
-This a React Native Flatlist pagiation example.
+This code shows React Native Flatlist pagiation example using REST API.
