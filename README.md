@@ -1,1 +1,1 @@
-This code shows React Native Flatlist pagiation example using REST API.
+This code shows React Native Flatlist pagination example using REST API.
